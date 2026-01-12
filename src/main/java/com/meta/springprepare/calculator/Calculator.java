@@ -1,6 +1,7 @@
 package com.meta.springprepare.calculator;
 
 public class Calculator {
+    // 4칙 연산 기능 
     public Double operate(double num1, String op, double num2) {
         switch (op) {
             case "*":

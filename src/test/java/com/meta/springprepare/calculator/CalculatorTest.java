@@ -23,6 +23,7 @@ class CalculatorTest {
 
         // Then
         Assertions.assertEquals(10, result);
+
     }
 
     @Test
